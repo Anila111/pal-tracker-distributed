@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
 using Timesheets;
 
-namespace Allocations
+namespace Timesheets
 {
     public class ProjectClient : IProjectClient
     {

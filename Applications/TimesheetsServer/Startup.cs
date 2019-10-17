@@ -10,7 +10,7 @@ using Timesheets;
 using Pivotal.Discovery.Client;
 using Steeltoe.Common.Discovery;
 using Steeltoe.CircuitBreaker.Hystrix;
-using Allocations;
+using Timesheets;
 
 namespace TimesheetsServer
 {

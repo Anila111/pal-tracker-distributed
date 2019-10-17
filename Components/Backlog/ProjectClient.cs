@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Backlog;
 using Microsoft.Extensions.Logging;
 
-namespace Allocations
+namespace Backlog
 {
     public class ProjectClient : IProjectClient
     {
